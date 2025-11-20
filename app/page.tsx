@@ -18,11 +18,11 @@ export default function Page() {
             className="relative w-0 h-0 border-l-[15px] border-r-[15px] border-b-[26px] border-l-transparent border-r-transparent border-b-black"
             />
           <p className={`text-xl text-gray-800 md:text-3xl md:leading-normal dark:text-gray-200`}>
-            <strong>Welcome to Acme.</strong> This is the example for the{' '}
+            <strong>Welcome to Ryan's Next.js Dashboard.</strong> This is a training project for the{' '}
             <a href="https://nextjs.org/learn/" className="text-blue-500">
               Next.js Learn Course
             </a>
-            , brought to you by Vercel.
+            .
           </p>
           <div className="flex flex-col gap-3 sm:flex-row">
             <Link
